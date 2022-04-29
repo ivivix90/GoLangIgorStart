@@ -1,2 +1,5 @@
 # GoLangIgorStart
  nauczki
+
+
+dodana linia
